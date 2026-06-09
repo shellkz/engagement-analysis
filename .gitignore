@@ -11,9 +11,7 @@ __pycache__/
 # Data (raw scraped content, not source code)
 data/
 
-# Root-level raw data files
-/thread_*.json
-/test.html
+
 
 # Environment variables
 .env
